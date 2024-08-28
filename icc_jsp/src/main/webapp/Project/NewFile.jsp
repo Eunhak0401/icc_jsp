@@ -4,14 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<link rel ='stylesheet' href='NewFile.css'>
+<title>JSP 게시판 웹 사이트</title>
 </head>
 <body>
-
-
-
-
-
-
+<div class='box'>
+</div>
 </body>
 </html>
